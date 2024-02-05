@@ -1,0 +1,12 @@
+{
+  "name": "comp2156---labs",
+  "version": "1.0.0",
+  "description": "Comp2156",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\""
+  },
+  "keywords": [],
+  "author": "Akanksha",
+  "license": "ISC"
+}
